@@ -81,8 +81,7 @@ h1:nth-of-type(1) {
 h3 {
   margin-top: 4.5rem;
   position: fixed;
-  top: 30;
-  bottom: -10;
+  top: 20;
 }
 
 h2 {
