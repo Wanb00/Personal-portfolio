@@ -95,8 +95,8 @@ h2 {
 }
 
 .projects > p {
-  position: static;
-  margin-top: 3rem;
+  position: relative;
+  top: -2rem;
   text-align: center;
   font-style: italic;
   margin-bottom: -3rem
