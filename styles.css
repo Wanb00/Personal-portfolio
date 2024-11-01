@@ -84,6 +84,7 @@ h1:nth-of-type(1) {
 
 h3 {
   margin-top: 4.5rem;
+  position: fixed;
 }
 
 h2 {
@@ -98,8 +99,8 @@ h2 {
 }
 
 .projects > p {
-  position: relative;
-  top: -60;
+  position: static;
+  margin-top: 3rem;
   text-align: center;
   font-style: italic;
   margin-bottom: -3rem
