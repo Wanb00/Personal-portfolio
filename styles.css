@@ -95,8 +95,13 @@ h2 {
   top: -30px;
 }
 
+.projects > div {
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+}
+
 .projects > div > p {
-  position: static;
   text-align: center;
   font-style: italic;
   margin-bottom: -3rem
