@@ -45,7 +45,16 @@ html {
   }
 }
 
+@media (max-width: 30.625em) {
+  .projects {
+    padding: 6rem 1rem;
+  }
 
+@media (max-width: 28.75em) {
+  .contact-section-header > h2 {
+    font-size: 4rem;
+  }
+}
 
 body { 
   font-family: 'Poppins', sans-serif;
