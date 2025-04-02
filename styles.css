@@ -157,7 +157,6 @@ h2 {
 }
 
 .project-tile {
-  display: flex;
   justify-content: center;
   align-content: center;
   text-align: center;
